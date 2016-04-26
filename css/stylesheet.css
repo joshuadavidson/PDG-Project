@@ -1,6 +1,6 @@
 /* Custom CSS to supplement skeleton CSS */
 
-#header {
+.header {
   position:absolute;
   text-align: center;
   width:100%;
@@ -12,6 +12,11 @@
   -webkit-background-size: cover;
 }
 
+.section{
+  text-align: center;
+  padding: 8rem 0 8rem;
+  position: absolute;
+}
 #contact-us {
   position:absolute;
   top:100%;
